@@ -35,11 +35,6 @@ Retrieval-Augmented Generation (RAG) improves large language models by integrati
   - `openai`
   - `ragas`
 
-You can install the dependencies using:
-```bash
-pip install -r requirements.txt
-```
-
 ### Dataset
 The dataset used for this project is available on [Kaggle](https://www.kaggle.com/datasets/samuelmatsuoharris/single-topic-rag-evaluation-dataset). It includes single-topic documents for evaluating Retrieval-Augmented Generation (RAG) models. The dataset is structured to test retrieval and generation performance across three categories:
 
